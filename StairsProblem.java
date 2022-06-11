@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class StairsProblem {
 	
+	// Climbing Stairs Problem - May 23rd -2022
+	
 	
 	public static void main(String args[])
 	{
