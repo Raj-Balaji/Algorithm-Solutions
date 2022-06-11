@@ -4,7 +4,9 @@ public class CustomStack {
 	
 	
 
+	// Custom stack that supports getting the minimum, popping, pushing in constant time
 	
+	// Every node that is added onto the stack carries forward the minimum value
 	class Node{
 		int val;
 		int min;
